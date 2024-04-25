@@ -1,0 +1,2 @@
+clang xyz.c -lcs50 -o xyc
+./xyc

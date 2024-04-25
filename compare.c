@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <cs50.h>
+
+int main(void)
+{
+    int x = get_int("What's x? ");
+    int y = get_int("What's y? ");
+    
+    if (x < y) {
+        printf("x < y\n");
+    } else if (x == y) {
+        printf("x = y\n");
+    } else {
+        printf("x > y\n");
+    }
+}
