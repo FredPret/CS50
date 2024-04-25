@@ -4,7 +4,7 @@ int get_size(void);
 void print_grid(int max_x, int max_y);
 void space();
 
-
+// test
 int main(void)
 {
     // line
