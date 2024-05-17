@@ -11,4 +11,6 @@ int main(void)
     printf("Average: %f\n", (score1 + score2 + score3) / (float) 3);
 
     printf("Average: %f\i", (score1 + score2 + score3) );
+
+    
 }
